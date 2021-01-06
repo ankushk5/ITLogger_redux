@@ -22,7 +22,7 @@ const  App = () => {
   });
 
   return (
-    <Provider store={store}>
+    <Provider store={store}> 
     
       <div className="App">
         <SearchBar/>
